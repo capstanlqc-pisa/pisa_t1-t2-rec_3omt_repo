@@ -37,6 +37,8 @@
           <repository type="git" url="https://github.com/&ORG;/&THIS_REPO;.git">
             <!-- self -->
             <mapping local="/" repository="&THIS_PROJ;" />
+            <mapping local="tm/rec/t01.tmx" repository="t01_omt/omegat/project_save.tmx" />
+            <mapping local="tm/rec/t02.tmx" repository="t02_omt/omegat/project_save.tmx" />
           </repository>
           <repository type="git" url="https://github.com/&ORG;/CommonFiles.git">
             <!-- source files -->
@@ -46,8 +48,6 @@
             <mapping local="omegat/okf_json@pisa25.fprm" repository="config/okf_json@pisa25.fprm" />
             <mapping local="omegat/okf_xml@pisa25.fprm" repository="config/okf_xml@pisa25.fprm" />
             <mapping local="omegat/segmentation.conf" repository="config/segmentation.conf" />
-            <mapping local="tm/rec/t01.tmx" repository="assets/tm/omegat/&TARGET_LANG;/T1/project_save.tmx" />
-            <mapping local="tm/rec/t02.tmx" repository="assets/tm/omegat/&TARGET_LANG;/T2/project_save.tmx" />
           </repository>
       </repositories>
     </project>
