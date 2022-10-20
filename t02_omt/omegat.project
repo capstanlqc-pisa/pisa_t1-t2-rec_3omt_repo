@@ -35,7 +35,7 @@
         <repositories>
           <repository type="git" url="https://github.com/&ORG;/&THIS_REPO;.git">
             <!-- self -->
-            <mapping local="t02_omt" repository="t02_omt" />
+            <mapping local="/" repository="t02_omt" />
           </repository>
           <repository type="git" url="https://github.com/&ORG;/CommonFiles.git">
             <!-- source files -->
