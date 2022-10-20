@@ -28,7 +28,7 @@
         <remove_tags>false</remove_tags>
         <repositories>
           <repository type="git" url="https://github.com/capstanlqc-pisa/pisa_t1-t2-rec_3omt_repo.git">
-            <!-- self -->
+            <!-- this repo -->
             <mapping local="/" repository="/" />
           </repository>
           <repository type="git" url="https://github.com/capstanlqc-pisa/CommonFiles.git">
