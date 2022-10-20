@@ -42,7 +42,8 @@
           </repository>
           <repository type="git" url="https://github.com/&ORG;/CommonFiles.git">
             <!-- source files -->
-            <mapping local="source/" repository="source/FT/" />
+            <mapping local="source/ldw_batch1" repository="source/FT/ldw_batch1" />
+            <mapping local="source/maths_batch1" repository="source/FT/maths_batch1" />
             <!-- project settings -->
             <mapping local="omegat/filters.xml" repository="config/filters.xml" />
             <mapping local="omegat/okf_json@pisa25.fprm" repository="config/okf_json@pisa25.fprm" />
