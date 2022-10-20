@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE omegat [
+  <!ENTITY ORG "capstanlqc-pisa">
+  <!ENTITY TARGET_LANG "fr-ZZ">
+  <!ENTITY STEP "T01">
+  <!ENTITY THIS_REPO "pisa_t1-t2-rec_3omt_repo">
+]>
 <omegat>
     <project version="1.0">
         <source_dir>__DEFAULT__</source_dir>
@@ -20,11 +26,26 @@
         <glossary_file>__DEFAULT__</glossary_file>
         <dictionary_dir>__DEFAULT__</dictionary_dir>
         <source_lang>en</source_lang>
-        <target_lang>fr-ZZ</target_lang>
+        <target_lang>&TARGET_LANG;</target_lang>
         <source_tok>org.omegat.tokenizer.LuceneEnglishTokenizer</source_tok>
         <target_tok>org.omegat.tokenizer.LuceneFrenchTokenizer</target_tok>
         <sentence_seg>true</sentence_seg>
         <support_default_translations>true</support_default_translations>
         <remove_tags>false</remove_tags>
+        <repositories>
+          <repository type="git" url="https://github.com/&ORG;/&THIS_REPO;.git">
+            <!-- self -->
+            <mapping local="/" repository="/" />
+          </repository>
+          <repository type="git" url="https://github.com/&ORG;/CommonFiles.git">
+            <!-- source files -->
+            <mapping local="source/" repository="source/FT/" />
+            <!-- project settings -->
+            <mapping local="omegat/filters.xml" repository="config/filters.xml" />
+            <mapping local="omegat/okf_json@pisa25.fprm" repository="config/okf_json@pisa25.fprm" />
+            <mapping local="omegat/okf_xml@pisa25.fprm" repository="config/okf_xml@pisa25.fprm" />
+            <mapping local="omegat/segmentation.conf" repository="config/segmentation.conf" />
+          </repository>
+      </repositories>
     </project>
 </omegat>
