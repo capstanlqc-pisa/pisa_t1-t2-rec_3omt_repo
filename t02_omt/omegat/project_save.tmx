@@ -62,6 +62,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It can pick up and sort chewable waste.</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="x" changedate="20121020T111225Z" creationid="y" creationdate="20211020T111225Z">
+        <seg>Xx xxx xxxx xx xxx xxxx xxxxxxxx xxxxx.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It can pick up and sort chewable waste.</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="xx" changedate="20201020T111225Z" creationid="yy" creationdate="20201020T111225Z">
+        <seg>@Xx xxx xxxx xx xxx xxxx xxxxxxxx xxxxx.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On the right you can see our &lt;x1/&gt;chewing flaw&lt;x2/&gt;.</seg>
       </tuv>
       <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221020T111225Z" creationid="TRA_pico" creationdate="20221020T111225Z">
