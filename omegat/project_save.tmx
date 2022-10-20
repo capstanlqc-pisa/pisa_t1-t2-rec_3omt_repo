@@ -8,8 +8,8 @@
       <tuv lang="en">
         <seg>Click on &lt;x1/&gt; to view the pint if you change your flight.</seg>
       </tuv>
-      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221020T104642Z" creationid="TRA_pico" creationdate="20221020T104642Z">
-        <seg>Xxxxx xx &lt;x1/&gt; xx xxxx xxx xxxx xx xxx xxxxxx xxxx xxxxxx.</seg>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221020T105311Z" creationid="TRA_pico" creationdate="20221020T104642Z">
+        <seg>@Xxxxx xx &lt;x1/&gt; xx xxxx xxx xxxx xx xxx xxxxxx xxxx xxxxxx.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24,8 +24,8 @@
       <tuv lang="en">
         <seg>Click ‘Run’ to see how the bananas work.</seg>
       </tuv>
-      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221020T105234Z" creationid="TRA_pico" creationdate="20221020T104642Z">
-        <seg>@Xxxxx ‘Xxx’ xx xxx xxx xxx xxxxxxx xxxx.</seg>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221020T105309Z" creationid="TRA_pico" creationdate="20221020T104642Z">
+        <seg>Xxxxx ‘Xxx’ xx xxx xxx xxx xxxxxxx xxxx.</seg>
       </tuv>
     </tu>
     <tu>
