@@ -4,6 +4,7 @@
   <!ENTITY TARGET_LANG "fr-ZZ">
   <!ENTITY STEP "Reconciliation">
   <!ENTITY THIS_REPO "pisa_t1-t2-rec_3omt_repo">
+  <!ENTITY THIS_PROJ "rec_omt">
 ]>
 <omegat>
     <project version="1.0">
@@ -35,7 +36,7 @@
         <repositories>
           <repository type="git" url="https://github.com/&ORG;/&THIS_REPO;.git">
             <!-- self -->
-            <mapping local="/" repository="rec_omt" />
+            <mapping local="/" repository="&THIS_PROJ;" />
           </repository>
           <repository type="git" url="https://github.com/&ORG;/CommonFiles.git">
             <!-- source files -->
