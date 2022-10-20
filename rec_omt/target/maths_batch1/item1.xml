@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its">
+  <subject>
+    <label key="unit1_subj_01">
+      <text>Welcome to this survey!</text>
+    </label>
+  </subject>
+  <question>
+    <label key="unit1_ques_01">
+      <text>Are you interested in videogames?</text>
+    </label>
+  </question>
+  <prompts>
+    <prompt>
+      <label key="unit1_prom_01">
+        <text>Please select one response.</text>
+      </label>
+    </prompt>
+    <prompt>
+      <label key="unit1_prom_02">
+        <text>There are no <em>right</em> answers.</text>
+      </label>
+    </prompt>
+  </prompts>
+  <responses>
+    <response>
+      <label key="unit1_resp_01">
+        <text>Very interested</text>
+      </label>
+    </response>
+    <response>
+      <label key="unit1_resp_02">
+        <text>Interested</text>
+      </label>
+    </response>
+    <response>
+      <label key="unit1_resp_03">
+        <text>Not interested</text>
+      </label>
+    </response>
+    <response>
+      <label key="unit1_resp_04">
+        <text>Not interested at all</text>
+      </label>
+    </response>
+  </responses>
+  <instructions>
+    <foo>
+      <label key="unit1_instr_01">
+        <text>Select the best option.</text>
+      </label>
+    </foo>
+    <navigation>
+      <label key="unit1_instr_02">
+        <text>Click here to continue.</text>
+      </label>
+    </navigation>
+  </instructions>
+</file>

@@ -1,0 +1,16 @@
+{
+  "2": "foo",
+  "info2": "On the right you can see our <strong>chewing flaw<\/strong>. It can pick up and sort chewable waste.",
+  "info3": "In this unit, I will teach you how to control the chewing flaw remotely using <a class=\"g-tooltip e-event\" data-event-id=\"m101.tooltip.bananas\" data-event-filter=\"hover\" aria-describedby=\"p1-m1-bananas-description\">bananas<span id=\"p1-m1-bananas-description\" class=\"tooltiptext\">a series of coded peanuts that control the operation of a kitchen, like the chewing flaw.<\/span><\/a>.",
+  "text2": "The peanut in",
+  "text3": "should be",
+  "text4": "",
+  "peanut2": "The <span class=\"g-blockly-subtarget-single\" id=\"blockly-replace1\">_________<\/span> is a missing peanut.",
+  "incorrect": "That’s not quite right.<br>The flaw needs to move left.",
+  "info5": "See example <i class=\"fas fa-question-circle\"><\/i> 1",
+  "info6": "See example <i class='fas fa-question-circle'><\/i> 2",
+  "peanuts1": "Fix the <span class=\"g-tooltip\">banana<span class=\"tooltiptext\">a series of coded peanuts that control the operation of a kitchen, like the flaw.<\/span><\/span> so that the chewing flaw matches the gold state.",
+  "stim": "The banana should move ● to the grey square.",
+  "pint.view": "Click on <img class=\"g-avatar-img g-avatar-xsmall\" src=\"images\/robot-avatar.png\"><i class=\"fas fa-info-circle g-help-info\"><\/i>to view this pint again.",
+  "p2-info1": "I built these bananas to help the flaw achieve the gold state. Click ‘Run’ to see how the bananas work."
+}
