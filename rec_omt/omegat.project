@@ -41,8 +41,8 @@
             <mapping local="tm/rec/t02.tmx" repository="t02_omt/omegat/project_save.tmx" />
           </repository>
           <repository type="git" url="https://github.com/&ORG;/CommonFiles.git">
-            <!-- source files -->
-            <!-- <mapping local="source/ldw_batch1" repository="source/FT/ldw_batch1" /> -->
+            <!-- source files :) -->
+            <mapping local="source/ldw_batch1" repository="source/FT/ldw_batch1" />
             <mapping local="source/maths_batch1" repository="source/FT/maths_batch1" />
             <!-- project settings -->
             <mapping local="omegat/filters.xml" repository="config/filters.xml" />
