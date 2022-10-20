@@ -4,6 +4,206 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>Are you interested in videogames?</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221020T104513Z" creationid="TRA_pico" creationdate="20221020T104513Z">
+        <seg>Xxx xxx xxxxxxxxxx xx xxxxxxxxxx?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click here to continue.</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221020T104527Z" creationid="TRA_pico" creationdate="20221020T104527Z">
+        <seg>Xxxxx xxxx xx xxxxxxxx.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;x1/&gt; to view the pint if you change your flight.</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221020T104512Z" creationid="TRA_pico" creationdate="20221020T104512Z">
+        <seg>Xxxxx xx &lt;x1/&gt; xx xxxx xxx xxxx xx xxx xxxxxx xxxx xxxxxx.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;x1/&gt;&lt;x2/&gt;&lt;x3/&gt;to view this pint again.</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221020T104513Z" creationid="TRA_pico" creationdate="20221020T104513Z">
+        <seg>Xxxxx xx &lt;x1/&gt;&lt;x2/&gt;&lt;x3/&gt;xx xxxx xxxx xxxx xxxxx.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click ‘Run’ to see how the bananas work.</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221020T104513Z" creationid="TRA_pico" creationdate="20221020T104513Z">
+        <seg>Xxxxx ‘Xxx’ xx xxx xxx xxx xxxxxxx xxxx.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fix the &lt;x1/&gt;banana&lt;x2/&gt;a series of coded peanuts that control the operation of a kitchen, like the flaw.&lt;x3/&gt;&lt;x4/&gt; so that the chewing flaw matches the gold state.</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221020T104513Z" creationid="TRA_pico" creationdate="20221020T104513Z">
+        <seg>Xxx xxx &lt;x1/&gt;xxxxxx&lt;x2/&gt;x xxxxxx xx xxxxx xxxxxxx xxxx xxxxxxx xxx xxxxxxxxx xx x xxxxxxx, xxxx xxx xxxx.&lt;x3/&gt;&lt;x4/&gt; xx xxxx xxx xxxxxxx xxxx xxxxxxx xxx xxxx xxxxx.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I built these bananas to help the flaw achieve the gold state.</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221020T104513Z" creationid="TRA_pico" creationdate="20221020T104513Z">
+        <seg>X xxxxx xxxxx xxxxxxx xx xxxx xxx xxxx xxxxxxx xxx xxxx xxxxx.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this unit, I will teach you how to control the chewing flaw remotely using &lt;x1/&gt;bananas&lt;x2/&gt;a series of coded peanuts that control the operation of a kitchen, like the chewing flaw.&lt;x3/&gt;&lt;x4/&gt;.</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221020T104513Z" creationid="TRA_pico" creationdate="20221020T104513Z">
+        <seg>Xx xxxx xxxx, X xxxx xxxxx xxx xxx xx xxxxxxx xxx xxxxxxx xxxx xxxxxxxx xxxxx &lt;x1/&gt;xxxxxxx&lt;x2/&gt;x xxxxxx xx xxxxx xxxxxxx xxxx xxxxxxx xxx xxxxxxxxx xx x xxxxxxx, xxxx xxx xxxxxxx xxxx.&lt;x3/&gt;&lt;x4/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Interested</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221020T104513Z" creationid="TRA_pico" creationdate="20221020T104513Z">
+        <seg>Xxxxxxxxxx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It can pick up and sort chewable waste.</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221020T104513Z" creationid="TRA_pico" creationdate="20221020T104513Z">
+        <seg>Xx xxx xxxx xx xxx xxxx xxxxxxxx xxxxx.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not interested</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221020T104513Z" creationid="TRA_pico" creationdate="20221020T104513Z">
+        <seg>Xxx xxxxxxxxxx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not interested at all</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221020T104513Z" creationid="TRA_pico" creationdate="20221020T104513Z">
+        <seg>Xxx xxxxxxxxxx xx xxx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the right you can see our &lt;x1/&gt;chewing flaw&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221020T104513Z" creationid="TRA_pico" creationdate="20221020T104513Z">
+        <seg>Xx xxx xxxxx xxx xxx xxx xxx &lt;x1/&gt;xxxxxxx xxxx&lt;x2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please select one response.</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221020T104513Z" creationid="TRA_pico" creationdate="20221020T104513Z">
+        <seg>Xxxxxx xxxxxx xxx xxxxxxxx.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See example &lt;x1/&gt;&lt;x2/&gt; 1</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221020T104513Z" creationid="TRA_pico" creationdate="20221020T104513Z">
+        <seg>Xxx xxxxxxx &lt;x1/&gt;&lt;x2/&gt; #</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See example &lt;x1/&gt;&lt;x2/&gt; 2</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221020T104513Z" creationid="TRA_pico" creationdate="20221020T104513Z">
+        <seg>Xxx xxxxxxx &lt;x1/&gt;&lt;x2/&gt; #</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the best option.</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221020T104513Z" creationid="TRA_pico" creationdate="20221020T104513Z">
+        <seg>Xxxxxx xxx xxxx xxxxxx.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>That’s not quite right.&lt;x1/&gt;The flaw needs to move left.</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221020T104513Z" creationid="TRA_pico" creationdate="20221020T104513Z">
+        <seg>Xxxx’x xxx xxxxx xxxxx.&lt;x1/&gt;Xxx xxxx xxxxx xx xxxx xxxx.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;x1/&gt;_________&lt;x2/&gt; is a missing peanut.</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221020T104513Z" creationid="TRA_pico" creationdate="20221020T104513Z">
+        <seg>Xxx &lt;x1/&gt;_________&lt;x2/&gt; xx x xxxxxxx xxxxxx.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The banana should move ● to the grey square.</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221020T104513Z" creationid="TRA_pico" creationdate="20221020T104513Z">
+        <seg>Xxx xxxxxx xxxxxx xxxx ● xx xxx xxxx xxxxxx.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The peanut in</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221020T104513Z" creationid="TRA_pico" creationdate="20221020T104513Z">
+        <seg>Xxx xxxxxx xx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are no &lt;g1&gt;right&lt;/g1&gt; answers.</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221020T104513Z" creationid="TRA_pico" creationdate="20221020T104513Z">
+        <seg>Xxxxx xxx xx &lt;g1&gt;xxxxx&lt;/g1&gt; xxxxxxx.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Very interested</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221020T104513Z" creationid="TRA_pico" creationdate="20221020T104513Z">
+        <seg>Xxxx xxxxxxxxxx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Welcome to this survey!</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221020T104513Z" creationid="TRA_pico" creationdate="20221020T104513Z">
+        <seg>Xxxxxxx xx xxxx xxxxxx!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>should be</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221020T104513Z" creationid="TRA_pico" creationdate="20221020T104513Z">
+        <seg>xxxxxx xx</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
