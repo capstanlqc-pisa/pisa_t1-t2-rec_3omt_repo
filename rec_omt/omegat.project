@@ -37,8 +37,8 @@
           <repository type="git" url="https://github.com/&ORG;/&THIS_REPO;.git">
             <!-- self -->
             <mapping local="/" repository="&THIS_PROJ;" />
-            <mapping local="tm/rec/t01.tmx" repository="t01_omt/omegat/project_save.tmx" />
-            <mapping local="tm/rec/t02.tmx" repository="t02_omt/omegat/project_save.tmx" />
+            <mapping local="tm/T01/" repository="t01_omt/mapped/" />
+            <mapping local="tm/T01/" repository="t02_omt/mapped/" />
           </repository>
           <repository type="git" url="https://github.com/&ORG;/CommonFiles.git">
             <!-- source files -->
