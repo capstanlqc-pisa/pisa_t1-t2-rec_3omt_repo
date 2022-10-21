@@ -6,6 +6,22 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>Are you interested in videogames?</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T095105Z" creationid="TRA_pico" creationdate="20221021T095105Z">
+        <seg>z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click here to continue.</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T095110Z" creationid="TRA_pico" creationdate="20221021T095110Z">
+        <seg>z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click on &lt;x1/&gt; to view the pint if you change your flight.</seg>
       </tuv>
       <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221020T111225Z" creationid="TRA_pico" creationdate="20221020T111225Z">
@@ -54,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Interested</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T095109Z" creationid="TRA_pico" creationdate="20221021T095109Z">
+        <seg>z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It can pick up and sort chewable waste.</seg>
       </tuv>
       <tuv lang="fr-ZZ" changeid="xx" changedate="20201020T111225Z" creationid="yy" creationdate="20201020T111225Z">
@@ -62,10 +86,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Not interested</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T095109Z" creationid="TRA_pico" creationdate="20221021T095109Z">
+        <seg>z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not interested at all</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T095110Z" creationid="TRA_pico" creationdate="20221021T095110Z">
+        <seg>z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On the right you can see our &lt;x1/&gt;chewing flaw&lt;x2/&gt;.</seg>
       </tuv>
       <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221020T111225Z" creationid="TRA_pico" creationdate="20221020T111225Z">
         <seg>Xx xxx xxxxx xxx xxx xxx xxx &lt;x1/&gt;xxxxxxx xxxx&lt;x2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please select one response.</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T095105Z" creationid="TRA_pico" creationdate="20221021T095105Z">
+        <seg>z</seg>
       </tuv>
     </tu>
     <tu>
@@ -82,6 +130,14 @@
       </tuv>
       <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221020T111209Z" creationid="TRA_pico" creationdate="20221020T111209Z">
         <seg>Xxx xxxxxxx &lt;x1/&gt;&lt;x2/&gt; #</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the best option.</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T095110Z" creationid="TRA_pico" creationdate="20221021T095110Z">
+        <seg>z</seg>
       </tuv>
     </tu>
     <tu>
@@ -114,6 +170,30 @@
       </tuv>
       <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221020T111209Z" creationid="TRA_pico" creationdate="20221020T111209Z">
         <seg>Xxx xxxxxx xx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are no &lt;g1&gt;right&lt;/g1&gt; answers.</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T095108Z" creationid="TRA_pico" creationdate="20221021T095108Z">
+        <seg>&lt;g1&gt;z&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Very interested</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T095109Z" creationid="TRA_pico" creationdate="20221021T095109Z">
+        <seg>z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Welcome to this survey!</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T095104Z" creationid="TRA_pico" creationdate="20221021T095104Z">
+        <seg>z</seg>
       </tuv>
     </tu>
     <tu>
