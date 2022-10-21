@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.0_0_8ae1ecfb" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
-    <tu>
-      <tuv lang="en">
-        <seg>Click on &lt;x1/&gt; to view the pint if you change your flight.</seg>
-      </tuv>
-      <tuv lang="fr-ZZ" changeid="souto" changedate="20221020T153719Z" creationid="souto" creationdate="20221020T153719Z">
-        <seg>foo</seg>
-      </tuv>
-    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
