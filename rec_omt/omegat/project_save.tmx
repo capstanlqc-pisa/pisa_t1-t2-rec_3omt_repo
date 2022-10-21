@@ -6,10 +6,10 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
-        <seg>Are you interested in videogames?</seg>
+        <seg>Click here to continue.</seg>
       </tuv>
-      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T114152Z" creationid="TRA_pico" creationdate="20221021T114152Z">
-        <seg>x</seg>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T115630Z" creationid="TRA_pico" creationdate="20221021T115628Z">
+        <seg>xx</seg>
       </tuv>
     </tu>
     <tu>
@@ -64,9 +64,8 @@
       <tuv lang="en">
         <seg>Interested</seg>
       </tuv>
-      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T115621Z" creationid="TRA_pico" creationdate="20221021T115621Z">
-        <seg>
-</seg>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T115626Z" creationid="TRA_pico" creationdate="20221021T115621Z">
+        <seg>x</seg>
       </tuv>
     </tu>
     <tu>
@@ -79,18 +78,26 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>On the right you can see our &lt;x1/&gt;chewing flaw&lt;x2/&gt;.</seg>
+        <seg>Not interested</seg>
       </tuv>
-      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T114122Z" creationid="TRA_pico" creationdate="20221021T114122Z">
-        <seg>zz zzz zzzzz zzz zzz zzz zzz &lt;x1/&gt;zzzzzzz zzzz&lt;x2/&gt;.</seg>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T115626Z" creationid="TRA_pico" creationdate="20221021T115626Z">
+        <seg>x</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Please select one response.</seg>
+        <seg>Not interested at all</seg>
       </tuv>
-      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T114153Z" creationid="TRA_pico" creationdate="20221021T114153Z">
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T115627Z" creationid="TRA_pico" creationdate="20221021T115627Z">
         <seg>x</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the right you can see our &lt;x1/&gt;chewing flaw&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T114122Z" creationid="TRA_pico" creationdate="20221021T114122Z">
+        <seg>zz zzz zzzzz zzz zzz zzz zzz &lt;x1/&gt;zzzzzzz zzzz&lt;x2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -107,6 +114,14 @@
       </tuv>
       <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T114146Z" creationid="TRA_pico" creationdate="20221021T114146Z">
         <seg>zzz zzzzzzz &lt;x1/&gt;&lt;x2/&gt; #</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the best option.</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T115628Z" creationid="TRA_pico" creationdate="20221021T115628Z">
+        <seg>x</seg>
       </tuv>
     </tu>
     <tu>
@@ -154,14 +169,6 @@
         <seg>Very interested</seg>
       </tuv>
       <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T114155Z" creationid="TRA_pico" creationdate="20221021T114155Z">
-        <seg>x</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Welcome to this survey!</seg>
-      </tuv>
-      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T114151Z" creationid="TRA_pico" creationdate="20221021T114151Z">
         <seg>x</seg>
       </tuv>
     </tu>
