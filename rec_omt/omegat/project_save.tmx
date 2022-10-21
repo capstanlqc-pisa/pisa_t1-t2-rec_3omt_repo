@@ -62,6 +62,15 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Interested</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T115621Z" creationid="TRA_pico" creationdate="20221021T115621Z">
+        <seg>
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It can pick up and sort chewable waste.</seg>
       </tuv>
       <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T114122Z" creationid="TRA_pico" creationdate="20221021T114122Z">
