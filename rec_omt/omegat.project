@@ -51,9 +51,6 @@
             <mapping local="omegat/okf_xml@pisa25.fprm" repository="config/okf_xml@pisa25.fprm" />
             <mapping local="omegat/segmentation.conf" repository="config/segmentation.conf" />
           </repository>
-          <repository type="git" url="https://github.com/&ORG;/TargetFiles.git">
-              <mapping local="target/" repository="Reconciliation/fr-ZZ/"/>
-          </repository>
       </repositories>
     </project>
 </omegat>
