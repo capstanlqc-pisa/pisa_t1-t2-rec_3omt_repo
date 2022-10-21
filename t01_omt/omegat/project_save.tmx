@@ -6,6 +6,22 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>Are you interested in videogames?</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T094954Z" creationid="TRA_pico" creationdate="20221021T094954Z">
+        <seg>x</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click here to continue.</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T095008Z" creationid="TRA_pico" creationdate="20221021T095008Z">
+        <seg>x</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click on &lt;x1/&gt; to view the pint if you change your flight.</seg>
       </tuv>
       <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221020T140200Z" creationid="TRA_pico" creationdate="20221020T135824Z">
@@ -54,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Interested</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T095003Z" creationid="TRA_pico" creationdate="20221021T095003Z">
+        <seg>x</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It can pick up and sort chewable waste.</seg>
       </tuv>
       <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221020T140141Z" creationid="TRA_pico" creationdate="20221020T135825Z">
@@ -62,10 +86,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Not interested</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T095003Z" creationid="TRA_pico" creationdate="20221021T095003Z">
+        <seg>x</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not interested at all</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T095003Z" creationid="TRA_pico" creationdate="20221021T095003Z">
+        <seg>x</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On the right you can see our &lt;x1/&gt;chewing flaw&lt;x2/&gt;.</seg>
       </tuv>
       <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221020T140200Z" creationid="TRA_pico" creationdate="20221020T135825Z">
         <seg>zz zzz zzzzz zzz zzz zzz zzz &lt;x1/&gt;zzzzzzz zzzz&lt;x2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please select one response.</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T094954Z" creationid="TRA_pico" creationdate="20221021T094954Z">
+        <seg>x</seg>
       </tuv>
     </tu>
     <tu>
@@ -82,6 +130,14 @@
       </tuv>
       <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221020T140200Z" creationid="TRA_pico" creationdate="20221020T135825Z">
         <seg>zzz zzzzzzz &lt;x1/&gt;&lt;x2/&gt; #</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the best option.</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T095004Z" creationid="TRA_pico" creationdate="20221021T095004Z">
+        <seg>x</seg>
       </tuv>
     </tu>
     <tu>
@@ -118,10 +174,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There are no &lt;g1&gt;right&lt;/g1&gt; answers.</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T095001Z" creationid="TRA_pico" creationdate="20221021T094955Z">
+        <seg>&lt;g1&gt;x&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Very interested</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T095002Z" creationid="TRA_pico" creationdate="20221021T095002Z">
+        <seg>x</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Welcome to this survey!</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T094954Z" creationid="TRA_pico" creationdate="20221021T094954Z">
+        <seg>x</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>foo</seg>
       </tuv>
-      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T094449Z" creationid="TRA_pico" creationdate="20221021T094449Z">
-        <seg>bar</seg>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221021T094942Z" creationid="TRA_pico" creationdate="20221021T094449Z">
+        <seg>baz</seg>
       </tuv>
     </tu>
     <tu>
