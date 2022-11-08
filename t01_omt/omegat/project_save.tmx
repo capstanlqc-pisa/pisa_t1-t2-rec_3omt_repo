@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please select one response.</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="REC" changedate="20221108T084708Z" creationid="REC" creationdate="20221108T084708Z">
+        <seg>Veuillez selectionner une reponse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Welcome to this survey!</seg>
       </tuv>
       <tuv lang="fr-ZZ" changeid="REC" changedate="20221103T153107Z" creationid="REC" creationdate="20221103T153107Z">
