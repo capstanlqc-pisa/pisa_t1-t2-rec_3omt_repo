@@ -14,10 +14,50 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click on &lt;x1/&gt; to view the pint if you change your flight.</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="user" changedate="20221107T132114Z" creationid="user" creationdate="20221107T132114Z">
+        <seg>Fai clic su &lt;x1/&gt; per visualizzare la pinta se dovessi cambiare il tuo volo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this unit, I will teach you how to control the chewing flaw remotely using &lt;x1/&gt;bananas&lt;x2/&gt;a series of coded peanuts that control the operation of a kitchen, like the chewing flaw.&lt;x3/&gt;&lt;x4/&gt;.</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="user" changedate="20221107T133111Z" creationid="user" creationdate="20221107T133111Z">
+        <seg>In questa unità farai di tutto e di più, ma sopratutto dovrai capire che cavolo è il difetto di masticazione usando &lt;x1/&gt;banane&lt;x2/&gt; e una serie di altre cose assurde che non sto qui a descrivere.&lt;x3/&gt;&lt;x4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It can pick up and sort chewable waste.</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="user" changedate="20221107T133235Z" creationid="user" creationdate="20221107T132944Z">
+        <seg>Questo testo è davvero strano. E io mi sono sbagliata lingua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the right you can see our &lt;x1/&gt;chewing flaw&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="user" changedate="20221107T132725Z" creationid="user" creationdate="20221107T132725Z">
+        <seg>Sulla destra puoi vedere il nostro &lt;x1/&gt;difetto di masticazione&lt;x2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please select one response.</seg>
       </tuv>
       <tuv lang="fr-ZZ" changeid="REC" changedate="20221108T084708Z" creationid="REC" creationdate="20221108T084708Z">
         <seg>Veuillez selectionner une reponse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The banana should move ● to the grey square.</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="user" changedate="20221107T133212Z" creationid="user" creationdate="20221107T133212Z">
+        <seg> La banana dovrebbe spostarsi ● in direzione del quadrato grigio.</seg>
       </tuv>
     </tu>
     <tu>
