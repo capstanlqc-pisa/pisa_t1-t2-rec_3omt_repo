@@ -6,6 +6,22 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>Are you interested in videogames?</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="REC" changedate="20221103T153203Z" creationid="REC" creationdate="20221103T153203Z">
+        <seg>Vous etes interessé(e) aux jeux-vidéo ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Welcome to this survey!</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="REC" changedate="20221103T153107Z" creationid="REC" creationdate="20221103T153107Z">
+        <seg>Bienvenu(e) à cette enquête</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>foo</seg>
       </tuv>
       <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221107T082608Z" creationid="TRA_pico" creationdate="20221107T082608Z">
