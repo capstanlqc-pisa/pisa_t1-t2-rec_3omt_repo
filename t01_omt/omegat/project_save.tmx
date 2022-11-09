@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select the best option.</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_DL" changedate="20221109T134628Z" creationid="TRA_DL" creationdate="20221109T134628Z">
+        <seg>Choisissez la meilleure option.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The banana should move ● to the grey square.</seg>
       </tuv>
       <tuv lang="fr-ZZ" changeid="user" changedate="20221107T133212Z" creationid="user" creationdate="20221107T133212Z">
