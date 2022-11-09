@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -24,8 +24,8 @@
       <tuv lang="en">
         <seg>Click on &lt;x1/&gt; to view the pint if you change your flight.</seg>
       </tuv>
-      <tuv lang="fr-ZZ" changeid="user" changedate="20221107T132114Z" creationid="user" creationdate="20221107T132114Z">
-        <seg>Fai clic su &lt;x1/&gt; per visualizzare la pinta se dovessi cambiare il tuo volo</seg>
+      <tuv lang="fr-ZZ" changeid="VER" changedate="20221109T154829Z" creationid="user" creationdate="20221107T132114Z">
+        <seg>fgvdfg dg g g</seg>
       </tuv>
     </tu>
     <tu>
