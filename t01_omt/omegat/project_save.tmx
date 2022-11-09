@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click here to continue.</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_DL" changedate="20221109T134804Z" creationid="TRA_DL" creationdate="20221109T134804Z">
+        <seg>Cliquez ici pour continuer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click on &lt;x1/&gt; to view the pint if you change your flight.</seg>
       </tuv>
       <tuv lang="fr-ZZ" changeid="user" changedate="20221107T132114Z" creationid="user" creationdate="20221107T132114Z">
