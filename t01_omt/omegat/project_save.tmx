@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.0_0_8ae1ecfb" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
         <seg>Are you interested in videogames?</seg>
       </tuv>
-      <tuv lang="fr-ZZ" changeid="REC" changedate="20221103T153203Z" creationid="REC" creationdate="20221103T153203Z">
-        <seg>Vous etes interessé(e) aux jeux-vidéo ?</seg>
+      <tuv lang="fr-ZZ" changeid="TRA_DL" changedate="20221109T095629Z" creationid="REC" creationdate="20221103T153203Z">
+        <seg>Est-ce que les jeux vidéos vous intéressent ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -30,10 +30,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Interested</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_DL" changedate="20221109T095644Z" creationid="TRA_DL" creationdate="20221109T095644Z">
+        <seg>Oui</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It can pick up and sort chewable waste.</seg>
       </tuv>
       <tuv lang="fr-ZZ" changeid="user" changedate="20221107T133235Z" creationid="user" creationdate="20221107T132944Z">
         <seg>Questo testo è davvero strano. E io mi sono sbagliata lingua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not interested</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_DL" changedate="20221109T095646Z" creationid="TRA_DL" creationdate="20221109T095646Z">
+        <seg>Non</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not interested at all</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_DL" changedate="20221109T095649Z" creationid="TRA_DL" creationdate="20221109T095649Z">
+        <seg>Pas du tout</seg>
       </tuv>
     </tu>
     <tu>
@@ -66,6 +90,22 @@
       </tuv>
       <tuv lang="fr-ZZ" changeid="user" changedate="20221108T123355Z" creationid="user" creationdate="20221108T123355Z">
         <seg>La cacahuète dans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are no &lt;g1&gt;right&lt;/g1&gt; answers.</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_DL" changedate="20221109T095605Z" creationid="TRA_DL" creationdate="20221109T095605Z">
+        <seg>Il n'y a pas de &lt;g1&gt;bonnes&lt;/g1&gt; réponses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Very interested</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_DL" changedate="20221109T095643Z" creationid="TRA_DL" creationdate="20221109T095643Z">
+        <seg>Beaucoup</seg>
       </tuv>
     </tu>
     <tu>
