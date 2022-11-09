@@ -8,8 +8,8 @@
       <tuv lang="en">
         <seg>Are you interested in videogames?</seg>
       </tuv>
-      <tuv lang="fr-ZZ" changeid="TRA_DL" changedate="20221109T095629Z" creationid="REC" creationdate="20221103T153203Z">
-        <seg>Est-ce que les jeux vidéos vous intéressent ?</seg>
+      <tuv lang="fr-ZZ" changeid="TRA_DL" changedate="20221104T141753Z" creationid="TRA_DL" creationdate="20221104T141753Z">
+        <seg>Est-ce que les jeux vidéo vous intéressent ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -72,8 +72,8 @@
       <tuv lang="en">
         <seg>Please select one response.</seg>
       </tuv>
-      <tuv lang="fr-ZZ" changeid="REC" changedate="20221108T084708Z" creationid="REC" creationdate="20221108T084708Z">
-        <seg>Veuillez selectionner une reponse.</seg>
+      <tuv lang="fr-ZZ" changeid="TRA_DL" changedate="20221104T141801Z" creationid="TRA_DL" creationdate="20221104T141801Z">
+        <seg>Sélectionnez une réponse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -104,8 +104,8 @@
       <tuv lang="en">
         <seg>There are no &lt;g1&gt;right&lt;/g1&gt; answers.</seg>
       </tuv>
-      <tuv lang="fr-ZZ" changeid="TRA_DL" changedate="20221109T095605Z" creationid="TRA_DL" creationdate="20221109T095605Z">
-        <seg>Il n'y a pas de &lt;g1&gt;bonnes&lt;/g1&gt; réponses.</seg>
+      <tuv lang="fr-ZZ" changeid="TRA_DL" changedate="20221104T141838Z" creationid="TRA_DL" creationdate="20221104T141838Z">
+        <seg>Il &lt;g1&gt;n&lt;/g1&gt;'y a &lt;g1&gt;pas&lt;/g1&gt; de bonnes de réponses.</seg>
       </tuv>
     </tu>
     <tu>
