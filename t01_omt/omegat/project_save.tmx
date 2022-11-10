@@ -140,6 +140,14 @@
         <seg>ва вап п п</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>should be</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_msoutopico" changedate="20221110T094308Z" creationid="TRA_msoutopico" creationdate="20221110T094308Z">
+        <seg>asdfç</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
