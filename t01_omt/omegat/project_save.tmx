@@ -24,8 +24,8 @@
       <tuv lang="en">
         <seg>Click on &lt;x1/&gt; to view the pint if you change your flight.</seg>
       </tuv>
-      <tuv lang="fr-ZZ" changeid="VER" changedate="20221109T154829Z" creationid="user" creationdate="20221107T132114Z">
-        <seg>fgvdfg dg g g</seg>
+      <tuv lang="fr-ZZ" changeid="AndFerrari" changedate="20221110T112342Z" creationid="user" creationdate="20221107T132114Z">
+        <seg>Cliquez sur X1 pour boire la tasse si vous changez de vol.</seg>
       </tuv>
     </tu>
     <tu>
@@ -136,8 +136,8 @@
       <tuv lang="en">
         <seg>foo</seg>
       </tuv>
-      <tuv lang="fr-ZZ" changeid="VER" changedate="20221109T150423Z" creationid="TRA_pico" creationdate="20221107T082608Z">
-        <seg>ва вап п п</seg>
+      <tuv lang="fr-ZZ" changeid="AndFerrari" changedate="20221110T112134Z" creationid="TRA_pico" creationdate="20221107T082608Z">
+        <seg>phou</seg>
       </tuv>
     </tu>
     <tu>
