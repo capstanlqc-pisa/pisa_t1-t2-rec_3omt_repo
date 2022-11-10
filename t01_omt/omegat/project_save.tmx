@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>That’s not quite right.&lt;x1/&gt;The flaw needs to move left.</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="PISA25_VER_ua-UA_solonenk0" changedate="20221110T125459Z" creationid="PISA25_VER_ua-UA_solonenk0" creationdate="20221110T125459Z">
+        <seg>Розпрягайте, хлопці, коней та й лягайте спочивать, &lt;x1/&gt;≠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The banana should move ● to the grey square.</seg>
       </tuv>
       <tuv lang="fr-ZZ" changeid="user" changedate="20221107T133212Z" creationid="user" creationdate="20221107T133212Z">
