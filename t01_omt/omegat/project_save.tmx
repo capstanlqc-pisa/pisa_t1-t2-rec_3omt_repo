@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click ‘Run’ to see how the bananas work.</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="PISA25_VER_ua-UA_solonenk0" changedate="20221110T125843Z" creationid="PISA25_VER_ua-UA_solonenk0" creationdate="20221110T125843Z">
+        <seg>ччч</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In this unit, I will teach you how to control the chewing flaw remotely using &lt;x1/&gt;bananas&lt;x2/&gt;a series of coded peanuts that control the operation of a kitchen, like the chewing flaw.&lt;x3/&gt;&lt;x4/&gt;.</seg>
       </tuv>
       <tuv lang="fr-ZZ" changeid="user" changedate="20221108T123342Z" creationid="user" creationdate="20221107T133111Z">
