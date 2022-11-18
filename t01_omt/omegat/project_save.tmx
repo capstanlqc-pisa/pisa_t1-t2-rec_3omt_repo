@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click on &lt;x1/&gt;&lt;x2/&gt;&lt;x3/&gt;to view this pint again.</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_msoutopico" changedate="20221118T113629Z" creationid="TRA_msoutopico" creationdate="20221118T113629Z">
+        <seg>Nobody had touched this segment &lt;x1/&gt;&lt;x2/&gt;&lt;x3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click ‘Run’ to see how the bananas work.</seg>
       </tuv>
       <tuv lang="fr-ZZ" changeid="PISA25_VER_ua-UA_solonenk0" changedate="20221110T125843Z" creationid="PISA25_VER_ua-UA_solonenk0" creationdate="20221110T125843Z">
