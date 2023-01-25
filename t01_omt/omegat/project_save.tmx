@@ -200,8 +200,8 @@
       <tuv lang="en">
         <seg>foo</seg>
       </tuv>
-      <tuv lang="fr-ZZ" changeid="PipouncheMache" changedate="20221114T182354Z" creationid="TRA_pico" creationdate="20221107T082608Z">
-        <seg>ПипунчеМаче уоз хиар</seg>
+      <tuv lang="fr-ZZ" changeid="Devasmita Ghosh" changedate="20230125T093447Z" creationid="TRA_pico" creationdate="20221107T082608Z">
+        <seg>test</seg>
       </tuv>
     </tu>
     <tu>
