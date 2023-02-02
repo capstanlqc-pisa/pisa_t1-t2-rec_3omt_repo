@@ -152,8 +152,8 @@
       <tuv lang="en">
         <seg>The &lt;x1/&gt;_________&lt;x2/&gt; is a missing peanut.</seg>
       </tuv>
-      <tuv lang="fr-ZZ" changeid="PipouncheMache" changedate="20221114T182622Z" creationid="PipouncheMache" creationdate="20221114T182622Z">
-        <seg>уоз &lt;x1/&gt;хиар&lt;x2/&gt;</seg>
+      <tuv lang="fr-ZZ" changeid="VER_hin-HIN_DevasmitaG" changedate="20230202T105339Z" creationid="PipouncheMache" creationdate="20221114T182622Z">
+        <seg>testing &lt;x1/&gt;for Manuel&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -208,8 +208,8 @@
       <tuv lang="en">
         <seg>should be</seg>
       </tuv>
-      <tuv lang="fr-ZZ" changeid="PipouncheMache" changedate="20221114T182700Z" creationid="TRA_msoutopico" creationdate="20221110T094308Z">
-        <seg>ПипунчеМаче</seg>
+      <tuv lang="fr-ZZ" changeid="VER_hin-HIN_DevasmitaG" changedate="20230202T105317Z" creationid="TRA_msoutopico" creationdate="20221110T094308Z">
+        <seg>testing should be</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
