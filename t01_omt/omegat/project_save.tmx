@@ -120,8 +120,8 @@
       <tuv lang="en">
         <seg>See example &lt;x1/&gt;&lt;x2/&gt; 1</seg>
       </tuv>
-      <tuv lang="fr-ZZ" changeid="PISA25_VER_ua-UA_solonenk0" changedate="20221110T125554Z" creationid="PISA25_VER_ua-UA_solonenk0" creationdate="20221110T125554Z">
-        <seg>А я піду в сад зелений, в сад криниченьку копать.&lt;x1/&gt;</seg>
+      <tuv lang="fr-ZZ" changeid="VER_jp-JP_gplde" changedate="20230203T215652Z" creationid="PISA25_VER_ua-UA_solonenk0" creationdate="20221110T125554Z">
+        <seg>例&lt;x1/&gt;&lt;x2/&gt;1を見てください。</seg>
       </tuv>
     </tu>
     <tu>
